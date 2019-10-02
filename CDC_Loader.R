@@ -143,40 +143,41 @@ cdc.periods <- c(
   "2009-2011", "2012-2014", "2015-2017"
 )
 
+# ./data/CDC_raw
 cdc.files.assault <- c(
-  "../data/CDC/assault/Underlying Cause of Death, 2000-2002.txt",
-  "../data/CDC/assault/Underlying Cause of Death, 2003-2005.txt",
-  "../data/CDC/assault/Underlying Cause of Death, 2006-2008.txt",
-  "../data/CDC/assault/Underlying Cause of Death, 2009-2011.txt",
-  "../data/CDC/assault/Underlying Cause of Death, 2012-2014.txt",
-  "../data/CDC/assault/Underlying Cause of Death, 2015-2017.txt"
+  "./data/CDC_raw/assault/Underlying Cause of Death, 2000-2002.txt",
+  "./data/CDC_raw/assault/Underlying Cause of Death, 2003-2005.txt",
+  "./data/CDC_raw/assault/Underlying Cause of Death, 2006-2008.txt",
+  "./data/CDC_raw/assault/Underlying Cause of Death, 2009-2011.txt",
+  "./data/CDC_raw/assault/Underlying Cause of Death, 2012-2014.txt",
+  "./data/CDC_raw/assault/Underlying Cause of Death, 2015-2017.txt"
 )
 
 cdc.files.cancer <- c(
-  "../data/CDC/cancer/Underlying Cause of Death, 2000-2002.txt",
-  "../data/CDC/cancer/Underlying Cause of Death, 2003-2005.txt",
-  "../data/CDC/cancer/Underlying Cause of Death, 2006-2008.txt",
-  "../data/CDC/cancer/Underlying Cause of Death, 2009-2011.txt",
-  "../data/CDC/cancer/Underlying Cause of Death, 2012-2014.txt",
-  "../data/CDC/cancer/Underlying Cause of Death, 2015-2017.txt"
+  "./data/CDC_raw/cancer/Underlying Cause of Death, 2000-2002.txt",
+  "./data/CDC_raw/cancer/Underlying Cause of Death, 2003-2005.txt",
+  "./data/CDC_raw/cancer/Underlying Cause of Death, 2006-2008.txt",
+  "./data/CDC_raw/cancer/Underlying Cause of Death, 2009-2011.txt",
+  "./data/CDC_raw/cancer/Underlying Cause of Death, 2012-2014.txt",
+  "./data/CDC_raw/cancer/Underlying Cause of Death, 2015-2017.txt"
 )
 
 cdc.files.despair <- c(
-  "../data/CDC/despair/Underlying Cause of Death, 2000-2002.txt",
-  "../data/CDC/despair/Underlying Cause of Death, 2003-2005.txt",
-  "../data/CDC/despair/Underlying Cause of Death, 2006-2008.txt",
-  "../data/CDC/despair/Underlying Cause of Death, 2009-2011.txt",
-  "../data/CDC/despair/Underlying Cause of Death, 2012-2014.txt",
-  "../data/CDC/despair/Underlying Cause of Death, 2015-2017.txt"
+  "./data/CDC_raw/despair/Underlying Cause of Death, 2000-2002.txt",
+  "./data/CDC_raw/despair/Underlying Cause of Death, 2003-2005.txt",
+  "./data/CDC_raw/despair/Underlying Cause of Death, 2006-2008.txt",
+  "./data/CDC_raw/despair/Underlying Cause of Death, 2009-2011.txt",
+  "./data/CDC_raw/despair/Underlying Cause of Death, 2012-2014.txt",
+  "./data/CDC_raw/despair/Underlying Cause of Death, 2015-2017.txt"
 )
 
 cdc.files.cardiovascular <- c(
-  "../data/CDC/cardiovascular/Underlying Cause of Death, 2000-2002.txt",
-  "../data/CDC/cardiovascular/Underlying Cause of Death, 2003-2005.txt",
-  "../data/CDC/cardiovascular/Underlying Cause of Death, 2006-2008.txt",
-  "../data/CDC/cardiovascular/Underlying Cause of Death, 2009-2011.txt",
-  "../data/CDC/cardiovascular/Underlying Cause of Death, 2012-2014.txt",
-  "../data/CDC/cardiovascular/Underlying Cause of Death, 2015-2017.txt"
+  "./data/CDC_raw/cardiovascular/Underlying Cause of Death, 2000-2002.txt",
+  "./data/CDC_raw/cardiovascular/Underlying Cause of Death, 2003-2005.txt",
+  "./data/CDC_raw/cardiovascular/Underlying Cause of Death, 2006-2008.txt",
+  "./data/CDC_raw/cardiovascular/Underlying Cause of Death, 2009-2011.txt",
+  "./data/CDC_raw/cardiovascular/Underlying Cause of Death, 2012-2014.txt",
+  "./data/CDC_raw/cardiovascular/Underlying Cause of Death, 2015-2017.txt"
 )
 
 
